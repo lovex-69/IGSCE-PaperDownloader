@@ -21,6 +21,10 @@ import {
 } from '../src/lib/paperDownloader';
 import * as Sharing from 'expo-sharing';
 
+// Student Access Control
+import { useAccessControl } from '../src/hooks/useAccessControl';
+import { StudentDetailModal } from '../src/components/StudentDetailModal';
+
 const BRAND_COLOR = '#1e3a5f';
 const ACCENT_COLOR = '#0d9488';
 const SUCCESS_COLOR = '#10b981';
@@ -68,6 +72,16 @@ export default function HomeScreen() {
     // Download queue state
     const [downloads, setDownloads] = useState<DownloadItem[]>([]);
     const [showDownloads, setShowDownloads] = useState(false);
+
+    // Access control for student details
+    const {
+        requireAccess,
+        showDetailModal,
+        setShowDetailModal,
+        onStudentVerified,
+        isVerified,
+        studentDetails,
+    } = useAccessControl();
 
     // REQUEST FOLDER PERMISSION ON FIRST LAUNCH
     useEffect(() => {
@@ -174,7 +188,7 @@ export default function HomeScreen() {
         }
     };
 
-    // DIRECT DOWNLOAD - Background, queue-based
+    // DIRECT DOWNLOAD - Background, queue-based (with access control)
     const handleDirectDownload = () => {
         if (!selectedSubject) {
             Alert.alert('Select Subject', 'Please select a subject first');
@@ -192,10 +206,14 @@ export default function HomeScreen() {
         };
 
         const name = `${selectedSubject.code} P${paperCode} ${getSessionName(activeSession)} ${startYear}`;
-        startDownload(params, name);
+
+        // Wrap download with access control - requires student details first
+        requireAccess(() => {
+            startDownload(params, name);
+        });
     };
 
-    // Navigate to preview screen (optional)
+    // Navigate to preview screen (with access control)
     const handlePreview = () => {
         if (!selectedSubject) {
             Alert.alert('Select Subject', 'Please select a subject first');
@@ -214,23 +232,26 @@ export default function HomeScreen() {
 
         const pdfUrl = getPdfUrl(downloadParams);
 
-        router.push({
-            pathname: '/preview',
-            params: {
-                subjectCode: selectedSubject.code,
-                subjectName: selectedSubject.name,
-                subjectSlug: selectedSubject.slug,
-                subjectLevel: selectedSubject.level,
-                paperCode,
-                year: startYear,
-                session: activeSession,
-                paperType,
-                pdfUrl,
-            }
+        // Wrap preview with access control
+        requireAccess(() => {
+            router.push({
+                pathname: '/preview',
+                params: {
+                    subjectCode: selectedSubject.code,
+                    subjectName: selectedSubject.name,
+                    subjectSlug: selectedSubject.slug,
+                    subjectLevel: selectedSubject.level,
+                    paperCode,
+                    year: startYear,
+                    session: activeSession,
+                    paperType,
+                    pdfUrl,
+                }
+            });
         });
     };
 
-    // Batch download (multiple papers)
+    // Batch download (multiple papers) - with access control
     const handleBatchDownload = () => {
         if (!selectedSubject) {
             Alert.alert('Select Subject', 'Please select a subject first');
@@ -246,20 +267,23 @@ export default function HomeScreen() {
             return;
         }
 
-        // Add all papers to queue
-        for (let year = start; year <= end; year++) {
-            for (const session of activeSessions) {
-                const params: DownloadParams = {
-                    subject: selectedSubject,
-                    paperCode,
-                    year,
-                    session,
-                    paperType,
-                };
-                const name = `${selectedSubject.code} P${paperCode} ${getSessionName(session)} ${year}`;
-                startDownload(params, name);
+        // Wrap batch download with access control
+        requireAccess(() => {
+            // Add all papers to queue
+            for (let year = start; year <= end; year++) {
+                for (const session of activeSessions) {
+                    const params: DownloadParams = {
+                        subject: selectedSubject,
+                        paperCode,
+                        year,
+                        session,
+                        paperType,
+                    };
+                    const name = `${selectedSubject.code} P${paperCode} ${getSessionName(session)} ${year}`;
+                    startDownload(params, name);
+                }
             }
-        }
+        });
     };
 
     // Clear completed downloads
@@ -280,6 +304,13 @@ export default function HomeScreen() {
 
     return (
         <SafeAreaView style={styles.container}>
+            {/* Student Detail Modal */}
+            <StudentDetailModal
+                visible={showDetailModal}
+                onClose={() => setShowDetailModal(false)}
+                onSuccess={onStudentVerified}
+            />
+
             <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
                 {/* Header with gradient effect */}
                 <View style={styles.header}>
