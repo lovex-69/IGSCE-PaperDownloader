@@ -321,7 +321,7 @@ export default function HomeScreen() {
                 </View>
 
                 {/* Question Search Card */}
-                <TouchableOpacity style={styles.searchCard} onPress={() => router.push('/search')}>
+                <TouchableOpacity style={styles.searchCard} onPress={() => router.push('/question-search')}>
                     <View style={styles.searchIconContainer}>
                         <Text style={styles.searchIcon}>🔍</Text>
                     </View>

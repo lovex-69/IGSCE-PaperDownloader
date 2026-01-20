@@ -37,6 +37,13 @@ export default function RootLayout() {
                         presentation: 'card',
                     }}
                 />
+                <Stack.Screen
+                    name="question-search"
+                    options={{
+                        title: 'Find by Question',
+                        headerShown: false,
+                    }}
+                />
             </Stack>
         </>
     );
