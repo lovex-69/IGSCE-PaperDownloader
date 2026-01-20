@@ -1,0 +1,994 @@
+{
+  "0452": {
+    "slug": "accounting-0452",
+    "level": "cambridge-igcse"
+  },
+  "0985": {
+    "slug": "accounting-0985",
+    "level": "cambridge-igcse"
+  },
+  "0512": {
+    "slug": "afrikaans-0512",
+    "level": "cambridge-igcse"
+  },
+  "0548": {
+    "slug": "afrikaans-0548",
+    "level": "cambridge-igcse"
+  },
+  "0600": {
+    "slug": "agriculture-0600",
+    "level": "cambridge-igcse"
+  },
+  "0508": {
+    "slug": "arabic-0508",
+    "level": "cambridge-igcse"
+  },
+  "0527": {
+    "slug": "arabic-0527",
+    "level": "cambridge-igcse"
+  },
+  "0544": {
+    "slug": "arabic-0544",
+    "level": "cambridge-igcse"
+  },
+  "7184": {
+    "slug": "arabic-7184",
+    "level": "cambridge-igcse"
+  },
+  "0400": {
+    "slug": "art-and-design-0400",
+    "level": "cambridge-igcse"
+  },
+  "0415": {
+    "slug": "art-and-design-0415",
+    "level": "cambridge-igcse"
+  },
+  "0989": {
+    "slug": "art-and-design-0989",
+    "level": "cambridge-igcse"
+  },
+  "0538": {
+    "slug": "bahasa-indonesia-0538",
+    "level": "cambridge-igcse"
+  },
+  "0449": {
+    "slug": "bangladesh-studies-0449",
+    "level": "cambridge-igcse"
+  },
+  "0438": {
+    "slug": "biology-0438",
+    "level": "cambridge-igcse"
+  },
+  "0610": {
+    "slug": "biology-0610",
+    "level": "cambridge-igcse"
+  },
+  "0970": {
+    "slug": "biology-0970",
+    "level": "cambridge-igcse"
+  },
+  "0450": {
+    "slug": "business-studies-0450",
+    "level": "cambridge-igcse"
+  },
+  "0439": {
+    "slug": "chemistry-0439",
+    "level": "cambridge-igcse"
+  },
+  "0620": {
+    "slug": "chemistry-0620",
+    "level": "cambridge-igcse"
+  },
+  "0637": {
+    "slug": "child-development-0637",
+    "level": "cambridge-igcse"
+  },
+  "0509": {
+    "slug": "chinese-0509",
+    "level": "cambridge-igcse"
+  },
+  "0523": {
+    "slug": "chinese-0523",
+    "level": "cambridge-igcse"
+  },
+  "0534": {
+    "slug": "chinese-0534",
+    "level": "cambridge-igcse"
+  },
+  "0547": {
+    "slug": "chinese-0547",
+    "level": "cambridge-igcse"
+  },
+  "0478": {
+    "slug": "computer-science-0478",
+    "level": "cambridge-igcse"
+  },
+  "0984": {
+    "slug": "computer-science-0984",
+    "level": "cambridge-igcse"
+  },
+  "0420": {
+    "slug": "computer-studies-0420",
+    "level": "cambridge-igcse"
+  },
+  "0441": {
+    "slug": "computer-studies-0441",
+    "level": "cambridge-igcse"
+  },
+  "0514": {
+    "slug": "czech-first-language-0514",
+    "level": "cambridge-igcse"
+  },
+  "0445": {
+    "slug": "design-and-technology-0445",
+    "level": "cambridge-igcse"
+  },
+  "0979": {
+    "slug": "design-and-technology-0979",
+    "level": "cambridge-igcse"
+  },
+  "0453": {
+    "slug": "development-studies-0453",
+    "level": "cambridge-igcse"
+  },
+  "0411": {
+    "slug": "drama-0411",
+    "level": "cambridge-igcse"
+  },
+  "0428": {
+    "slug": "drama-0428",
+    "level": "cambridge-igcse"
+  },
+  "0994": {
+    "slug": "drama-0994",
+    "level": "cambridge-igcse"
+  },
+  "0503": {
+    "slug": "dutch-0503",
+    "level": "cambridge-igcse"
+  },
+  "0515": {
+    "slug": "dutch-0515",
+    "level": "cambridge-igcse"
+  },
+  "0437": {
+    "slug": "economics-0437",
+    "level": "cambridge-igcse"
+  },
+  "0455": {
+    "slug": "economics-0455",
+    "level": "cambridge-igcse"
+  },
+  "0987": {
+    "slug": "economics-0987",
+    "level": "cambridge-igcse"
+  },
+  "0465": {
+    "slug": "english-as-a-second-language-0465",
+    "level": "cambridge-igcse"
+  },
+  "0427": {
+    "slug": "english-0427",
+    "level": "cambridge-igcse"
+  },
+  "0476": {
+    "slug": "english-0476",
+    "level": "cambridge-igcse"
+  },
+  "0477": {
+    "slug": "english-0477",
+    "level": "cambridge-igcse"
+  },
+  "0486": {
+    "slug": "english-0486",
+    "level": "cambridge-igcse"
+  },
+  "0500": {
+    "slug": "english-0500",
+    "level": "cambridge-igcse"
+  },
+  "0510": {
+    "slug": "english-0510",
+    "level": "cambridge-igcse"
+  },
+  "0511": {
+    "slug": "english-0511",
+    "level": "cambridge-igcse"
+  },
+  "0522": {
+    "slug": "english-0522",
+    "level": "cambridge-igcse"
+  },
+  "0524": {
+    "slug": "english-0524",
+    "level": "cambridge-igcse"
+  },
+  "0526": {
+    "slug": "english-0526",
+    "level": "cambridge-igcse"
+  },
+  "0627": {
+    "slug": "english-0627",
+    "level": "cambridge-igcse"
+  },
+  "0772": {
+    "slug": "english-0772",
+    "level": "cambridge-igcse"
+  },
+  "0990": {
+    "slug": "english-0990",
+    "level": "cambridge-igcse"
+  },
+  "0991": {
+    "slug": "english-0991",
+    "level": "cambridge-igcse"
+  },
+  "0993": {
+    "slug": "english-0993",
+    "level": "cambridge-igcse"
+  },
+  "0475": {
+    "slug": "english-0475",
+    "level": "cambridge-igcse"
+  },
+  "0472": {
+    "slug": "english-0472",
+    "level": "cambridge-igcse"
+  },
+  "0992": {
+    "slug": "english-0992",
+    "level": "cambridge-igcse"
+  },
+  "0454": {
+    "slug": "enterprise-0454",
+    "level": "cambridge-igcse"
+  },
+  "0680": {
+    "slug": "environmental-management-0680",
+    "level": "cambridge-igcse"
+  },
+  "0648": {
+    "slug": "food-and-nutrition-0648",
+    "level": "cambridge-igcse"
+  },
+  "0501": {
+    "slug": "french-0501",
+    "level": "cambridge-igcse"
+  },
+  "0520": {
+    "slug": "french-0520",
+    "level": "cambridge-igcse"
+  },
+  "0528": {
+    "slug": "french-0528",
+    "level": "cambridge-igcse"
+  },
+  "7156": {
+    "slug": "french-7156",
+    "level": "cambridge-igcse"
+  },
+  "0460": {
+    "slug": "geography-0460",
+    "level": "cambridge-igcse"
+  },
+  "0976": {
+    "slug": "geography-0976",
+    "level": "cambridge-igcse"
+  },
+  "0505": {
+    "slug": "german-0505",
+    "level": "cambridge-igcse"
+  },
+  "0525": {
+    "slug": "german-0525",
+    "level": "cambridge-igcse"
+  },
+  "0529": {
+    "slug": "german-0529",
+    "level": "cambridge-igcse"
+  },
+  "0677": {
+    "slug": "german-0677",
+    "level": "cambridge-igcse"
+  },
+  "0426": {
+    "slug": "global-perspectives-0426",
+    "level": "cambridge-igcse"
+  },
+  "0457": {
+    "slug": "global-perspectives-0457",
+    "level": "cambridge-igcse"
+  },
+  "0536": {
+    "slug": "greek-0536",
+    "level": "cambridge-igcse"
+  },
+  "0543": {
+    "slug": "greek-0543",
+    "level": "cambridge-igcse"
+  },
+  "0549": {
+    "slug": "hindi-0549",
+    "level": "cambridge-igcse"
+  },
+  "0416": {
+    "slug": "history-0416",
+    "level": "cambridge-igcse"
+  },
+  "0470": {
+    "slug": "history-0470",
+    "level": "cambridge-igcse"
+  },
+  "0977": {
+    "slug": "history-0977",
+    "level": "cambridge-igcse"
+  },
+  "0409": {
+    "slug": "history-american-0409",
+    "level": "cambridge-igcse"
+  },
+  "0417": {
+    "slug": "ict-0417",
+    "level": "cambridge-igcse"
+  },
+  "0447": {
+    "slug": "india-studies-0447",
+    "level": "cambridge-igcse"
+  },
+  "0545": {
+    "slug": "indonesian-0545",
+    "level": "cambridge-igcse"
+  },
+  "0983": {
+    "slug": "information-and-communication-technology-9-1-0983",
+    "level": "cambridge-igcse"
+  },
+  "0531": {
+    "slug": "isizulu-0531",
+    "level": "cambridge-igcse"
+  },
+  "0493": {
+    "slug": "islamiyat-0493",
+    "level": "cambridge-igcse"
+  },
+  "0535": {
+    "slug": "italian-0535",
+    "level": "cambridge-igcse"
+  },
+  "7164": {
+    "slug": "italian-7164",
+    "level": "cambridge-igcse"
+  },
+  "0507": {
+    "slug": "japanese-0507",
+    "level": "cambridge-igcse"
+  },
+  "0519": {
+    "slug": "japanese-0519",
+    "level": "cambridge-igcse"
+  },
+  "0532": {
+    "slug": "kazakh-0532",
+    "level": "cambridge-igcse"
+  },
+  "0521": {
+    "slug": "korean-0521",
+    "level": "cambridge-igcse"
+  },
+  "0480": {
+    "slug": "latin-0480",
+    "level": "cambridge-igcse"
+  },
+  "0546": {
+    "slug": "malay-0546",
+    "level": "cambridge-igcse"
+  },
+  "0696": {
+    "slug": "malay-first-language-0696",
+    "level": "cambridge-igcse"
+  },
+  "0697": {
+    "slug": "marine-science-maldives-only-0697",
+    "level": "cambridge-igcse"
+  },
+  "0444": {
+    "slug": "mathematics-0444",
+    "level": "cambridge-igcse"
+  },
+  "0459": {
+    "slug": "mathematics-0459",
+    "level": "cambridge-igcse"
+  },
+  "0580": {
+    "slug": "mathematics-0580",
+    "level": "cambridge-igcse"
+  },
+  "0581": {
+    "slug": "mathematics-0581",
+    "level": "cambridge-igcse"
+  },
+  "0606": {
+    "slug": "mathematics-0606",
+    "level": "cambridge-igcse"
+  },
+  "0607": {
+    "slug": "mathematics-0607",
+    "level": "cambridge-igcse"
+  },
+  "0626": {
+    "slug": "mathematics-0626",
+    "level": "cambridge-igcse"
+  },
+  "0980": {
+    "slug": "mathematics-0980",
+    "level": "cambridge-igcse"
+  },
+  "0410": {
+    "slug": "music-0410",
+    "level": "cambridge-igcse"
+  },
+  "0429": {
+    "slug": "music-0429",
+    "level": "cambridge-igcse"
+  },
+  "0448": {
+    "slug": "pakistan-studies-0448",
+    "level": "cambridge-igcse"
+  },
+  "0413": {
+    "slug": "physical-education-0413",
+    "level": "cambridge-igcse"
+  },
+  "0652": {
+    "slug": "physical-science-0652",
+    "level": "cambridge-igcse"
+  },
+  "0995": {
+    "slug": "physical-education-0995",
+    "level": "cambridge-igcse"
+  },
+  "0443": {
+    "slug": "physics-0443",
+    "level": "cambridge-igcse"
+  },
+  "0625": {
+    "slug": "physics-0625",
+    "level": "cambridge-igcse"
+  },
+  "0972": {
+    "slug": "physics-0972",
+    "level": "cambridge-igcse"
+  },
+  "0504": {
+    "slug": "portuguese-0504",
+    "level": "cambridge-igcse"
+  },
+  "0540": {
+    "slug": "portuguese-0540",
+    "level": "cambridge-igcse"
+  },
+  "0490": {
+    "slug": "religious-studies-0490",
+    "level": "cambridge-igcse"
+  },
+  "0516": {
+    "slug": "russian-0516",
+    "level": "cambridge-igcse"
+  },
+  "0499": {
+    "slug": "sanskrit-0499",
+    "level": "cambridge-igcse"
+  },
+  "0653": {
+    "slug": "science-0653",
+    "level": "cambridge-igcse"
+  },
+  "0442": {
+    "slug": "sciences-0442",
+    "level": "cambridge-igcse"
+  },
+  "0654": {
+    "slug": "sciences-0654",
+    "level": "cambridge-igcse"
+  },
+  "0973": {
+    "slug": "sciences-0973",
+    "level": "cambridge-igcse"
+  },
+  "0495": {
+    "slug": "sociology-0495",
+    "level": "cambridge-igcse"
+  },
+  "0678": {
+    "slug": "spanish-0678",
+    "level": "cambridge-igcse"
+  },
+  "0474": {
+    "slug": "spanish-0474",
+    "level": "cambridge-igcse"
+  },
+  "0502": {
+    "slug": "spanish-0502",
+    "level": "cambridge-igcse"
+  },
+  "0530": {
+    "slug": "spanish-0530",
+    "level": "cambridge-igcse"
+  },
+  "0533": {
+    "slug": "spanish-0533",
+    "level": "cambridge-igcse"
+  },
+  "0537": {
+    "slug": "spanish-0537",
+    "level": "cambridge-igcse"
+  },
+  "7160": {
+    "slug": "spanish-7160",
+    "level": "cambridge-igcse"
+  },
+  "0488": {
+    "slug": "spanish-literature-0488",
+    "level": "cambridge-igcse"
+  },
+  "0262": {
+    "slug": "swahili-0262",
+    "level": "cambridge-igcse"
+  },
+  "0518": {
+    "slug": "thai-0518",
+    "level": "cambridge-igcse"
+  },
+  "0471": {
+    "slug": "travel-and-tourism-0471",
+    "level": "cambridge-igcse"
+  },
+  "0513": {
+    "slug": "turkish-0513",
+    "level": "cambridge-igcse"
+  },
+  "0608": {
+    "slug": "twenty-first-century-science-0608",
+    "level": "cambridge-igcse"
+  },
+  "0539": {
+    "slug": "urdu-0539",
+    "level": "cambridge-igcse"
+  },
+  "0695": {
+    "slug": "vietnamese-first-language-0695",
+    "level": "cambridge-igcse"
+  },
+  "0408": {
+    "slug": "world-literature-0408",
+    "level": "cambridge-igcse"
+  },
+  "9706": {
+    "slug": "accounting-9706",
+    "level": "cambridge-international-a-level"
+  },
+  "8679": {
+    "slug": "afrikaan-8679",
+    "level": "cambridge-international-a-level"
+  },
+  "8779": {
+    "slug": "afrikaans-8779",
+    "level": "cambridge-international-a-level"
+  },
+  "9679": {
+    "slug": "afrikaans-9679",
+    "level": "cambridge-international-a-level"
+  },
+  "9713": {
+    "slug": "applied-ict-9713",
+    "level": "cambridge-international-a-level"
+  },
+  "8680": {
+    "slug": "arabic-8680",
+    "level": "cambridge-international-a-level"
+  },
+  "9680": {
+    "slug": "arabic-9680",
+    "level": "cambridge-international-a-level"
+  },
+  "9704": {
+    "slug": "art-and-design-9704",
+    "level": "cambridge-international-a-level"
+  },
+  "9479": {
+    "slug": "art-and-design-9479",
+    "level": "cambridge-international-a-level"
+  },
+  "9184": {
+    "slug": "biology-9184",
+    "level": "cambridge-international-a-level"
+  },
+  "9700": {
+    "slug": "biology-9700",
+    "level": "cambridge-international-a-level"
+  },
+  "9707": {
+    "slug": "business-studies-9707",
+    "level": "cambridge-international-a-level"
+  },
+  "9609": {
+    "slug": "business-9609",
+    "level": "cambridge-international-a-level"
+  },
+  "9185": {
+    "slug": "chemistry-9185",
+    "level": "cambridge-international-a-level"
+  },
+  "9701": {
+    "slug": "chemistry-9701",
+    "level": "cambridge-international-a-level"
+  },
+  "8238": {
+    "slug": "chinese-8238",
+    "level": "cambridge-international-a-level"
+  },
+  "8669": {
+    "slug": "chinese-8669",
+    "level": "cambridge-international-a-level"
+  },
+  "8681": {
+    "slug": "chinese-8681",
+    "level": "cambridge-international-a-level"
+  },
+  "9715": {
+    "slug": "chinese-9715",
+    "level": "cambridge-international-a-level"
+  },
+  "9868": {
+    "slug": "chinese-9868",
+    "level": "cambridge-international-a-level"
+  },
+  "9274": {
+    "slug": "classical-studies-9274",
+    "level": "cambridge-international-a-level"
+  },
+  "9608": {
+    "slug": "computer-science-9608",
+    "level": "cambridge-international-a-level"
+  },
+  "9618": {
+    "slug": "computer-science-for-first-examination-in-2021-9618",
+    "level": "cambridge-international-a-level"
+  },
+  "9691": {
+    "slug": "computing-9691",
+    "level": "cambridge-international-a-level"
+  },
+  "9481": {
+    "slug": "design-and-technology-9481",
+    "level": "cambridge-international-a-level"
+  },
+  "9705": {
+    "slug": "design-and-technology-9705",
+    "level": "cambridge-international-a-level"
+  },
+  "9631": {
+    "slug": "design-and-textiles-9631",
+    "level": "cambridge-international-a-level"
+  },
+  "9482": {
+    "slug": "drama-9482",
+    "level": "cambridge-international-a-level"
+  },
+  "9708": {
+    "slug": "economics-9708",
+    "level": "cambridge-international-a-level"
+  },
+  "8274": {
+    "slug": "english-8274",
+    "level": "cambridge-international-a-level"
+  },
+  "8287": {
+    "slug": "english-8287",
+    "level": "cambridge-international-a-level"
+  },
+  "8693": {
+    "slug": "english-8693",
+    "level": "cambridge-international-a-level"
+  },
+  "8695": {
+    "slug": "english-8695",
+    "level": "cambridge-international-a-level"
+  },
+  "9093": {
+    "slug": "english-9093",
+    "level": "cambridge-international-a-level"
+  },
+  "9276": {
+    "slug": "english-literature-9276",
+    "level": "cambridge-international-a-level"
+  },
+  "9695": {
+    "slug": "english-literature-9695",
+    "level": "cambridge-international-a-level"
+  },
+  "8021": {
+    "slug": "english-general-paper-8021",
+    "level": "cambridge-international-a-level"
+  },
+  "8291": {
+    "slug": "environmental-management-8291",
+    "level": "cambridge-international-a-level"
+  },
+  "9336": {
+    "slug": "food-studies-9336",
+    "level": "cambridge-international-a-level"
+  },
+  "8277": {
+    "slug": "french-8277",
+    "level": "cambridge-international-a-level"
+  },
+  "8682": {
+    "slug": "french-8682",
+    "level": "cambridge-international-a-level"
+  },
+  "9281": {
+    "slug": "french-9281",
+    "level": "cambridge-international-a-level"
+  },
+  "9716": {
+    "slug": "french-9716",
+    "level": "cambridge-international-a-level"
+  },
+  "8670": {
+    "slug": "french-literature-8670",
+    "level": "cambridge-international-a-level"
+  },
+  "9898": {
+    "slug": "french-language-and-literature-9898",
+    "level": "cambridge-international-a-level"
+  },
+  "8001": {
+    "slug": "general-paper-8001",
+    "level": "cambridge-international-a-level"
+  },
+  "8004": {
+    "slug": "general-paper-8004",
+    "level": "cambridge-international-a-level"
+  },
+  "9278": {
+    "slug": "geography-9278",
+    "level": "cambridge-international-a-level"
+  },
+  "9696": {
+    "slug": "geography-9696",
+    "level": "cambridge-international-a-level"
+  },
+  "8027": {
+    "slug": "german-8027",
+    "level": "cambridge-international-a-level"
+  },
+  "8683": {
+    "slug": "german-8683",
+    "level": "cambridge-international-a-level"
+  },
+  "9717": {
+    "slug": "german-9717",
+    "level": "cambridge-international-a-level"
+  },
+  "9897": {
+    "slug": "german-language-and-literature-9897",
+    "level": "cambridge-international-a-level"
+  },
+  "8275": {
+    "slug": "global-perspectives-8275",
+    "level": "cambridge-international-a-level"
+  },
+  "8987": {
+    "slug": "global-perspectives-8987",
+    "level": "cambridge-international-a-level"
+  },
+  "9239": {
+    "slug": "global-perspectives-and-research-9239",
+    "level": "cambridge-international-a-level"
+  },
+  "8687": {
+    "slug": "hindi-8687",
+    "level": "cambridge-international-a-level"
+  },
+  "9687": {
+    "slug": "hindi-9687",
+    "level": "cambridge-international-a-level"
+  },
+  "8675": {
+    "slug": "hindi-literature-8675",
+    "level": "cambridge-international-a-level"
+  },
+  "9014": {
+    "slug": "hinduism-9014",
+    "level": "cambridge-international-a-level"
+  },
+  "9487": {
+    "slug": "hinduism-9487",
+    "level": "cambridge-international-a-level"
+  },
+  "8058": {
+    "slug": "hinduism-8058",
+    "level": "cambridge-international-a-level"
+  },
+  "9279": {
+    "slug": "history-9279",
+    "level": "cambridge-international-a-level"
+  },
+  "9389": {
+    "slug": "history-9389",
+    "level": "cambridge-international-a-level"
+  },
+  "9489": {
+    "slug": "history-9489",
+    "level": "cambridge-international-a-level"
+  },
+  "9697": {
+    "slug": "history-9697",
+    "level": "cambridge-international-a-level"
+  },
+  "9626": {
+    "slug": "information-technology-9626",
+    "level": "cambridge-international-a-level"
+  },
+  "9488": {
+    "slug": "islamic-studies-9488",
+    "level": "cambridge-international-a-level"
+  },
+  "8281": {
+    "slug": "japanese-8281",
+    "level": "cambridge-international-a-level"
+  },
+  "8688": {
+    "slug": "marathi-8688",
+    "level": "cambridge-international-a-level"
+  },
+  "9688": {
+    "slug": "marathi-9688",
+    "level": "cambridge-international-a-level"
+  },
+  "9693": {
+    "slug": "marine-science-9693",
+    "level": "cambridge-international-a-level"
+  },
+  "9231": {
+    "slug": "mathematics-9231",
+    "level": "cambridge-international-a-level"
+  },
+  "9280": {
+    "slug": "mathematics-9280",
+    "level": "cambridge-international-a-level"
+  },
+  "9709": {
+    "slug": "mathematics-9709",
+    "level": "cambridge-international-a-level"
+  },
+  "9607": {
+    "slug": "media-studies-9607",
+    "level": "cambridge-international-a-level"
+  },
+  "9385": {
+    "slug": "music-9385",
+    "level": "cambridge-international-a-level"
+  },
+  "9483": {
+    "slug": "music-9483",
+    "level": "cambridge-international-a-level"
+  },
+  "8024": {
+    "slug": "nepal-studies-8024",
+    "level": "cambridge-international-a-level"
+  },
+  "9396": {
+    "slug": "physical-education-9396",
+    "level": "cambridge-international-a-level"
+  },
+  "8780": {
+    "slug": "physical-science-8780",
+    "level": "cambridge-international-a-level"
+  },
+  "9702": {
+    "slug": "physics-9702",
+    "level": "cambridge-international-a-level"
+  },
+  "8672": {
+    "slug": "portuguese-8672",
+    "level": "cambridge-international-a-level"
+  },
+  "8684": {
+    "slug": "portuguese-8684",
+    "level": "cambridge-international-a-level"
+  },
+  "9718": {
+    "slug": "portuguese-9718",
+    "level": "cambridge-international-a-level"
+  },
+  "9698": {
+    "slug": "psychology-9698",
+    "level": "cambridge-international-a-level"
+  },
+  "9990": {
+    "slug": "psychology-9990",
+    "level": "cambridge-international-a-level"
+  },
+  "9699": {
+    "slug": "sociology-9699",
+    "level": "cambridge-international-a-level"
+  },
+  "8022": {
+    "slug": "spanish-8022",
+    "level": "cambridge-international-a-level"
+  },
+  "8278": {
+    "slug": "spanish-8278",
+    "level": "cambridge-international-a-level"
+  },
+  "8279": {
+    "slug": "spanish-8279",
+    "level": "cambridge-international-a-level"
+  },
+  "8673": {
+    "slug": "spanish-8673",
+    "level": "cambridge-international-a-level"
+  },
+  "8685": {
+    "slug": "spanish-8685",
+    "level": "cambridge-international-a-level"
+  },
+  "9282": {
+    "slug": "spanish-9282",
+    "level": "cambridge-international-a-level"
+  },
+  "9719": {
+    "slug": "spanish-9719",
+    "level": "cambridge-international-a-level"
+  },
+  "8665": {
+    "slug": "spanish-8665",
+    "level": "cambridge-international-a-level"
+  },
+  "9844": {
+    "slug": "spanish-9844",
+    "level": "cambridge-international-a-level"
+  },
+  "8386": {
+    "slug": "sport-and-physical-education-8386",
+    "level": "cambridge-international-a-level"
+  },
+  "9689": {
+    "slug": "tamil-9689",
+    "level": "cambridge-international-a-level"
+  },
+  "8689": {
+    "slug": "tamil-8689",
+    "level": "cambridge-international-a-level"
+  },
+  "8690": {
+    "slug": "telugu-8690",
+    "level": "cambridge-international-a-level"
+  },
+  "9690": {
+    "slug": "telugu-9690",
+    "level": "cambridge-international-a-level"
+  },
+  "9694": {
+    "slug": "thinking-skills-9694",
+    "level": "cambridge-international-a-level"
+  },
+  "9395": {
+    "slug": "travel-and-tourism-9395",
+    "level": "cambridge-international-a-level"
+  },
+  "8686": {
+    "slug": "urdu-8686",
+    "level": "cambridge-international-a-level"
+  },
+  "9676": {
+    "slug": "urdu-9676",
+    "level": "cambridge-international-a-level"
+  },
+  "9686": {
+    "slug": "urdu-9686",
+    "level": "cambridge-international-a-level"
+  }
+}
