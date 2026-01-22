@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📚 IGCSE on Fingertips</h1>
+  <h1>📚 IGCSE Past Paper Downloader</h1>
   <p>
     <b>A powerful React Native mobile app for downloading and previewing Cambridge International exam papers (IGCSE, O-Level, A-Level)</b>
   </p>
